@@ -1,10 +1,9 @@
                                          Retail-Sales-Analysis-SQL-Project
 
-
-                                              Project Overview
-
 <img width="1536" height="1024" alt="THUMBNAIL" src="https://github.com/user-attachments/assets/ceafd462-0666-4523-8cf0-569591a4bd7e" />
-
+                                        
+                                         
+                                           Project Overview
 
 -This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
 
@@ -196,11 +195,10 @@ GROUP BY shift
 
                                        Conclusion
 
-This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+- This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
                                          Links
 - Wani Umer (Data Analyst).
 - PORTFOLIO:- https://codebasics.io/portfolio/WANI-UMER .
-
- LinkedIn: www.linkedin.com/in/waniumer-analytics 
+-  LinkedIn: www.linkedin.com/in/waniumer-analytics 
 
